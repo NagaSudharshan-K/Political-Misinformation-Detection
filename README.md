@@ -1,2 +1,2 @@
 # Political-Misinformation-Detection
-In this repository we detect real-time political minsinformation using ML and NLP techniques.
+This repository contains all the code and other related files that has been used in the project of detecting political misinformation using ML and NLP techniques in real-time.
